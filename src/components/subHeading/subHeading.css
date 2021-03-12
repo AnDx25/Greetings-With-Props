@@ -1,0 +1,15 @@
+.sub-heading
+{
+    display: flex;
+    padding: 16px;
+   
+}
+.open
+{
+    margin-left:24px;
+    
+}
+.close
+{
+    margin-left: 24px;
+}
